@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/first"
+            android:icon="@drawable/icons8_contact_30"
+            android:title="Profile"
+            android:iconTint="@color/pink"
+            />
+        <item
+            android:id="@+id/second"
+            android:icon="@drawable/icons8_mobile_payment"
+            android:title="My Payments"
+            android:iconTint="@color/pink"
+            />
+        <item
+            android:id="@+id/third"
+            android:icon="@drawable/icons8_list_view"
+            android:title="Activity Details"
+            android:iconTint="@color/pink"
+            />
+    </group>
+</menu>

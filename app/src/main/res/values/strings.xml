@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DashinDelivery</string>
+    <string name="open_drawer_layout">Open</string>
+    <string name="close_drawer_layout">Close</string>
+</resources>
